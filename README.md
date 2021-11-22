@@ -14,3 +14,5 @@ Construir el build:
 
 npm run build
 ```
+
+## Es necesario antes de iniciar
